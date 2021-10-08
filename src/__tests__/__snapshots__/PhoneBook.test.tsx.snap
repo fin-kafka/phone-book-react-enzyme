@@ -1,0 +1,57 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`PhoneBook should render correctly 1`] = `
+<div>
+  <PhoneContact
+    contact={
+      Object {
+        "id": 1,
+        "name": "John",
+        "phone": "+123456789",
+      }
+    }
+    deleteContact={[Function]}
+    key="1"
+    updateContact={[Function]}
+  />
+  <PhoneContact
+    contact={
+      Object {
+        "id": 2,
+        "name": "David",
+        "phone": "+123123123",
+      }
+    }
+    deleteContact={[Function]}
+    key="2"
+    updateContact={[Function]}
+  />
+  <PhoneContact
+    contact={
+      Object {
+        "id": 3,
+        "name": "Konstantin",
+        "phone": "+098098098",
+      }
+    }
+    deleteContact={[Function]}
+    key="3"
+    updateContact={[Function]}
+  />
+  <PhoneContact
+    contact={
+      Object {
+        "id": 4,
+        "name": "Eugene",
+        "phone": "+12356569",
+      }
+    }
+    deleteContact={[Function]}
+    key="4"
+    updateContact={[Function]}
+  />
+  <PhoneNewContact
+    addNewContact={[Function]}
+  />
+</div>
+`;

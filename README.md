@@ -2,6 +2,8 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Improved react component you can find in src/components/testComponent.tsx
+
 ## Available Scripts
 
 In the project directory, you can run:

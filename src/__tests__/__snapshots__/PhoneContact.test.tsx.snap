@@ -1,0 +1,24 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`PhoneContact should render correctly 1`] = `
+<div
+  className="phone-contact"
+>
+  <input
+    className="phone-contact-name"
+    onChange={[Function]}
+    value="John"
+  />
+  <input
+    className="phone-contact-phone"
+    onChange={[Function]}
+    value="123"
+  />
+  <button
+    className="phone-contact-delete"
+    onClick={[Function]}
+  >
+    Delete contact
+  </button>
+</div>
+`;

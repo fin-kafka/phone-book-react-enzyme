@@ -1,0 +1,27 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`PhoneNewContact should render correctly 1`] = `
+<div
+  className="phone-new-contact"
+>
+  <input
+    className="phone-new-contact-name"
+    onChange={[Function]}
+    placeholder="Name"
+    type="text"
+    value=""
+  />
+  <input
+    className="phone-new-contact-phone"
+    onChange={[Function]}
+    placeholder="Phone"
+    type="text"
+    value=""
+  />
+  <button
+    onClick={[Function]}
+  >
+    Add contact
+  </button>
+</div>
+`;
